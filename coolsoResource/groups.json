@@ -1,29 +1,29 @@
 {
   "groups":[
     {
-      "GroupName":"热门",
-      "parentpath":"coolsoResource/popular/",
+      "groupName":"热门",
+      "parentPath":"coolsoResource/popular/",
       "lists":[
         {
           "resId":1001,
           "version":1,
-          "path":"example1"
+          "folder":"example1"
         },
         {
           "resId":1004,
           "version":1,
-          "path":"example4"
+          "folder":"example4"
         }
       ]
     },
     {
-      "GroupName":"最新",
-      "parentpath":"coolsoResource/latest/",
+      "groupName":"最新",
+      "parentPath":"coolsoResource/latest/",
       "lists":[
         {
           "resId":1002,
           "version":"1",
-          "path":"example2"
+          "folder":"example2"
         }
       ]
     },
@@ -34,7 +34,7 @@
         {
           "resId":1003,
           "version":1,
-          "path":"example1"
+          "folder":"example1"
         }
       ]
     }
