@@ -1,3 +1,43 @@
 {
-  "haha":"hello git"
+  "groups":[
+    {
+      "GroupName":"热门",
+      "parentpath":"coolsoResource/popular/",
+      "lists":[
+        {
+          "resId":1001,
+          "version":1,
+          "path":"example1"
+        },
+        {
+          "resId":1004,
+          "version":1,
+          "path":"example4"
+        }
+      ]
+    },
+    {
+      "GroupName":"最新",
+      "parentpath":"coolsoResource/latest/",
+      "lists":[
+        {
+          "resId":1002,
+          "version":"1",
+          "path":"example2"
+        }
+      ]
+    },
+    {
+      "groupName":"推荐",
+      "parentPath":"coolsoResource/recommendation/",
+      "lists":[
+        {
+          "resId":1003,
+          "version":1,
+          "path":"example1"
+        }
+      ]
+    }
+  ],
+  "gitAddr":"https://github.com/mgzgithub/coolsoResource/blob/master/"
 }
