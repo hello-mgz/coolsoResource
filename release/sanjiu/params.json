@@ -1,0 +1,8 @@
+{
+  "effects":[
+    "luaEffect/main.lua"
+  ],
+  "resolutionX": 480,
+  "resolutionY":800,
+  "scaleType":"user 需要用户设定 none 适配全屏 center 居中裁剪"
+}
